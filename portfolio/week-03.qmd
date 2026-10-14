@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "18/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -12,14 +12,59 @@ categories: [Fondasi, Relationship]
 
 Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
 
-## Evidence wajib
-
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-warning title="Catatan validasi evidence"}
+Role-play percakapan dilakukan menurut konfirmasi Ariya. Dialog berikut direkonstruksi dengan bantuan AI dan bukan transkrip verbatim; skor menilai performance latihan, bukan mengklaim percakapan luar role-play terjadi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Konteks performance
+
+**Tanggal dan setting:** 15 September 2026, role-play setelah latihan Arsitektur Komputer tentang siklus fetch-decode-execute.  
+**Persons dan relationship:** Ariya dan Naufal, teman sekelas sekaligus rekan belajar.  
+**Objective:** Meminta kejelasan pembagian kerja tanpa menyalahkan; mendengar kendala Naufal dan menyepakati tindak lanjut yang realistis.  
+**Initial state:** Dalam skenario, diagram siklus instruksi kelompok belum konsisten: urutan PC mengambil alamat instruksi dan IR menyimpan instruksi belum dijelaskan dengan cara yang sama. Kedua pihak belum sepakat siapa yang merapikan diagram dan memeriksa penjelasannya.
+
+## Evidence: transcript simulasi
+
+> **Ariya:** “Naufal, aku mau cek diagram siklus instruksi kita. Aku menangkap PC menunjuk alamat instruksi yang akan diambil, lalu instruksinya masuk ke IR sebelum decode. Kamu membacanya sama?”  
+> **Naufal:** “Kurang lebih. Di diagramku, aku belum yakin kapan kita tunjukkan PC bergerak ke alamat berikutnya. Aku takut panahnya bikin urutannya kelihatan salah.”  
+> **Ariya:** “Jadi yang belum beres bukan nama tahapnya, tapi cara diagram menunjukkan perpindahan PC dan instruksi ke IR, benar?”  
+> **Naufal:** “Iya. Kalau panahnya jelas, bagian decode dan execute lebih gampang aku jelaskan.”  
+> **Ariya:** “Makasih sudah jelasin. Aku sempat mengira kita beda konsep, padahal notasi diagramnya belum kita samakan. Gimana kalau aku rapikan bagian fetch dulu, lalu kamu cek apakah panah PC dan IR terbaca sesuai penjelasan dosen?”  
+> **Naufal:** “Bisa. Setelah itu aku lanjutkan label decode dan execute, terus kita cocokkan lagi sebelum presentasi.”
+
+Percakapan itu merupakan naskah role-play untuk memperlihatkan paraphrase, pengakuan atas asumsi, dan request yang spesifik. Detail siklus instruksi perlu dicocokkan dengan diagram dan materi kuliah yang dipakai. Evidence aktual yang tersedia dalam halaman ini hanya catatan simulasi; tidak ada rekaman atau screenshot percakapan nyata.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Naufal dipahami sebagai teman belajar yang menghindari benturan implementasi, bukan dianggap tidak bertanggung jawab. Ariya memakai character teman sekaligus anggota tim. |
+| Objective & state | Dari ketidakjelasan diagram siklus instruksi menuju pembagian bagian fetch dan decode/execute serta review bersama. |
+| Repertoire & language | Pertanyaan terbuka dan paraphrase mendahului solusi. “Aku sempat mengira” mengambil tanggung jawab atas story tanpa menuduh. |
+| Response & adaptation | Respons Naufal menunjukkan kebutuhan utamanya adalah notasi panah PC/IR; rencana disesuaikan agar diagram dirapikan sebelum penjelasan tahap berikutnya. |
+| Agreement/action | Dalam simulasi: Ariya merapikan bagian fetch; Naufal memeriksa panah lalu menambahkan label decode dan execute; keduanya mencocokkan diagram dengan materi. |
+| Relationship outcome | Skenario berakhir lebih jelas dan tetap hangat. Dampak pada relasi aktual tidak dapat disimpulkan dari role-play. |
+
+## Penggunaan AI
+
+AI digunakan untuk membantu membuat draft dialog role-play dan memeriksa apakah request cukup spesifik. AI tidak mengetahui hubungan atau jadwal Naufal dan tidak menghasilkan bukti bahwa percakapan ini terjadi. Nama digunakan sesuai instruksi pemilik portfolio; dialog harus dikoreksi berdasarkan pengalaman nyata bila tersedia.
+
+## Feedback dan tindak lanjut
+
+**Feedback dalam role-play:** Naufal dapat menjelaskan keraguan notasi tanpa dituduh tidak berkontribusi. Paraphrase Ariya memberi kesempatan untuk mengoreksi pemahaman teknis maupun pembagian kerja.
+
+**Adaptation/replay:** Pertanyaan awal dipertahankan; urutan detail PC dan IR perlu diperiksa pada bahan kuliah sebelum diagram final dibuat.
+
+**Next practice:** Sebelum menyimpulkan anggota tim tidak berkontribusi, tanyakan hambatan dan ulangi pemahaman dengan kata-kataku sendiri.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Mengelola peran teman dan anggota tim serta menguji asumsi tentang sumber ketidaksepakatan. |
+| Objective & State | 4 | Menjaga dua tujuan sekaligus: akurasi penjelasan teknis dan pembagian kerja yang jelas. |
+| Repertoire, Language & AI | 3 | Listening, paraphrase, dan transparansi AI terlihat pada naskah. |
+| Response & Adaptation | 4 | Keraguan tentang panah PC/IR dibaca sebagai signal teknis; pembagian kerja berubah mengikuti kebutuhan itu. |
+| Agreement, Action & Relationship | 3 | Agreement spesifik dalam simulasi; hasil nyata belum diverifikasi. |
+
+**Total: 18/20.** Nilai 4 didukung pengelolaan objective ganda dan adaptasi pada signal keraguan; skor 3 pada language serta relationship menandai belum adanya umpan balik pasca-latihan yang terdokumentasi.

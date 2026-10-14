@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "18/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -12,14 +12,64 @@ categories: [Fondasi, Intra-Self]
 
 Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
-## Evidence wajib
-
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-warning title="Catatan validasi evidence"}
+Episode refleksi dan tindakan lanjut telah dilakukan menurut konfirmasi Ariya. Uraian di bawah dirapikan dengan bantuan AI dan bukan salinan jurnal/log asli; tambahkan contoh langkah soal atau catatan aktual bila tersedia.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Jurnal intra-self
+
+**Tanggal dan setting:** 8 September 2026, setelah sesi belajar Matematika Diskret. Episode ini ditulis sebagai draf retrospektif.
+
+**Event:** Aku membuka kembali latihan relasi dan fungsi, lalu menemukan satu jawaban yang tidak konsisten dengan definisi yang kupakai di langkah sebelumnya. Ini deskripsi draf yang perlu dicocokkan dengan lembar latihan sebenarnya.
+
+| Tahap | Catatan |
+|---|---|
+| Fact | Ada jawaban latihan yang tidak konsisten; aku belum memeriksa semua langkah untuk menemukan sumbernya. |
+| Initial story | “Aku tertinggal dan seharusnya sudah paham materi ini.” Ini kesimpulan, bukan fakta. |
+| Emotion | Cemas dan kesal karena waktu belajar terasa sempit. |
+| Internal character | Critic: menilai kemampuan dari satu kesalahan; protector: ingin menutup latihan agar tidak merasa gagal. |
+| Alternative narrative 1 | Aku memahami sebagian definisi, tetapi mungkin mencampur domain, kodomain, dan range pada contoh ini. |
+| Alternative narrative 2 | Instruksi soal atau notasi perlu dibaca ulang; satu jawaban salah belum menunjukkan seluruh pemahaman. |
+| Chosen response | Berperan sebagai investigator/coach: tandai langkah pertama yang tidak valid, tulis definisi yang dipakai, lalu uji dengan satu contoh kecil. |
+| Outcome yang dituju | Mengetahui miskonsepsi spesifik dan menyiapkan satu pertanyaan untuk diskusi, bukan sekadar mengulang soal tanpa arah. |
+
+## Evidence tindakan dan internal agreement
+
+**Internal agreement:** Luangkan 25 menit untuk mengerjakan ulang satu soal tanpa melihat jawaban. Bandingkan setiap langkah dengan definisi relasi/fungsi; bila masih buntu, kirim pertanyaan yang menunjukkan langkah spesifik kepada Naufal.
+
+**Tindakan dan hasil:** Menurut konfirmasi Ariya, sesi ulang dan pemeriksaan langkah benar dilakukan. Hasil refleksi yang dicatat adalah mengubah kesimpulan umum tentang kemampuan menjadi pencarian langkah spesifik yang keliru. Lembar latihan, waktu aktual, dan pertanyaan yang dikirim belum ditautkan pada halaman ini.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Person yang diajak berkomunikasi adalah diri sendiri; critic dan protector mempersempit pilihan, sedangkan investigator membantu mencari evidence. |
+| Objective & state | Dari cemas dan menghindari soal menuju identifikasi miskonsepsi dan satu langkah belajar yang dapat diuji. |
+| Repertoire & language | Menamai fakta, story, dan emosi; mengubah “aku tidak bisa” menjadi pertanyaan “langkah mana yang belum sesuai definisi?” |
+| Response & adaptation | Jika contoh kecil tetap gagal, strategi bergeser ke meminta klarifikasi dengan menunjukkan pekerjaan, bukan meminta jawaban akhir. |
+| Agreement/action | Rencana 25 menit dan satu pertanyaan spesifik perlu dicatat setelah benar-benar dilakukan. |
+| Relationship outcome | Self-talk yang lebih adil berpotensi menjaga kepercayaan diri tanpa menyangkal kesalahan; efek aktual perlu direfleksikan sendiri. |
+
+## Penggunaan AI
+
+AI membantu mengorganisasi format event–fact–story–emotion dan menawarkan alternatif narasi. AI tidak mengetahui lembar latihan atau emosi aktualku. Dialog batin di atas adalah contoh draf, bukan data yang dapat diverifikasi; aku harus mengganti bagian yang tidak sesuai.
+
+## Feedback dan tindak lanjut
+
+**Feedback:** Belum ada feedback eksternal yang diklaim. Kriteria pemeriksaan mandiri adalah apakah aku dapat menunjukkan langkah pertama yang salah dan menjelaskan definisi yang relevan.
+
+**Adaptation/replay:** Jika masih buntu setelah contoh kecil, berhenti mengulang prosedur yang sama dan bawa satu langkah spesifik ke sesi diskusi.
+
+**Next practice:** Setiap menemukan kesalahan, tulis satu fakta dan satu pertanyaan yang bisa diuji sebelum memberi label pada kemampuan diri.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Critic dan protector dikenali sebagai suara dengan objective berbeda; investigator/coach dipilih untuk mengelola keduanya. |
+| Objective & State | 4 | Emosi, ketidakpastian sumber kesalahan, dan objective belajar dipisahkan sebelum memilih response. |
+| Repertoire, Language & AI | 3 | Fact/story dan batas kontribusi AI dicatat. |
+| Response & Adaptation | 4 | Dua alternative narratives diuji dan strategi bergeser ke pertanyaan spesifik jika contoh mandiri belum cukup. |
+| Agreement, Action & Relationship | 3 | Internal agreement spesifik, tetapi pelaksanaannya menunggu verifikasi. |
+
+**Total: 18/20.** Nilai 4 didukung pemisahan beberapa kemungkinan cerita dan perubahan strategi setelah memeriksa evidence. Agreement/action tetap 3 karena artefak latihan dan rincian hasil belum ditautkan; skor ini adalah self-assessment, bukan nilai dosen.

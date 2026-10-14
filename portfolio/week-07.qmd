@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "19/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -12,14 +12,69 @@ categories: [TAIDA, Interest]
 
 Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan.
 
-## Evidence wajib
-
-- Attention evidence dan problem–solution link.
-- Interest pitch dengan evidence atau demonstration.
-- Response, state assessment, hidden concern, dan adaptation.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-warning title="Catatan validasi evidence"}
+Interest-pitch role-play dilakukan menurut konfirmasi Ariya. Dialog direkonstruksi dengan bantuan AI, bukan transkrip verbatim. Checklist masih rancangan konseptual dan belum diuji; jangan mengklaim solusi terbukti atau disetujui target.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Attention evidence dan problem–solution link
+
+**Tanggal dan setting:** 13 Oktober 2026, role-play lanjutan setelah target mengakui kebingungan memilih konfigurasi sesuai topologi dan langkah awal diagnosis.
+
+| Problem yang diakui dalam skenario | Mechanism | Benefit yang diharapkan | Value bagi person |
+|---|---|---|---|
+| Catatan lama mungkin tidak sesuai dengan topologi aktif | Lembar satu halaman mencantumkan nama/topologi, IP, subnet mask, gateway, serta langkah uji berurutan | Target dapat membandingkan konfigurasi terhadap diagram yang sedang dipakai | Lebih yakin menentukan langkah berikutnya tanpa mengandalkan ingatan saja |
+| Saat ping gagal, urutan pemeriksaan tidak jelas | Checklist memisahkan pemeriksaan alamat, gateway, koneksi lokal, lalu tes berikutnya sesuai materi praktikum | Kesalahan dapat dilokalisasi satu per satu | Waktu belajar dipakai untuk memahami hasil tes, bukan menebak langkah |
+
+Checklist hanya usulan untuk latihan. Akurasi urutan dan nilai konfigurasi harus diperiksa terhadap topologi serta instruksi resmi praktikum sebelum digunakan.
+
+## Interest pitch dan demonstrasi konseptual
+
+> **Ariya:** “Karena kamu bilang catatan lama bisa beda topologi, aku membayangkan satu lembar yang dimulai dari diagram yang sedang dipakai, lalu mencatat IP, subnet mask, dan gateway untuk tiap perangkat. Di bawahnya ada urutan cek saat ping gagal. Tujuannya bukan menggantikan pemahaman konsep, tapi membantu kamu tahu langkah mana yang sedang diuji. Mau lihat susunan contohnya?”  
+> **Owen:** “Boleh. Tapi kalau ada yang salah di checklist, orang bisa ikut konfigurasi yang salah juga.”  
+> **Ariya:** “Betul. Berarti lembar itu perlu mencantumkan sumber topologi dan siapa yang memeriksa versinya. Kita juga tidak pakai nilai contoh sebelum dicocokkan dengan instruksi praktikum.”  
+> **Owen:** “Kalau begitu, aku ingin lihat formatnya. Bagaimana cara membedakan tes koneksi lokal dengan gateway?”
+
+Owen meminta penjelasan mekanisme lanjutan dalam role-play, sebuah signal Interest. Ia belum menyatakan ingin memakai checklist atau menyetujui uji coba nyata.
+
+## Hidden concern dan adaptation
+
+Pertanyaan tentang checklist yang salah menunjukkan concern utama bukan tampilan, melainkan **akurasi, sumber, dan pemilik pembaruan**. Adaptasi: tambahkan kolom nama topologi, sumber instruksi, tanggal/versi, dan pemeriksa; pisahkan placeholder dari nilai konfigurasi resmi. Untuk pertanyaan tentang koneksi lokal dan gateway, jelaskan perbedaan itu dengan diagram praktikum yang sudah diverifikasi, bukan mengarang nilai IP.
+
+| Tahap | State assessment |
+|---|---|
+| Sebelum pitch | Attention: target mengakui masalah rujukan dan urutan diagnosis dalam skenario. |
+| Sesudah pitch | Interest awal: target meminta penjelasan cara membedakan dua tes, tetapi concern akurasi masih terbuka. |
+| Belum tercapai | Desire, izin implementasi, dan action belum ada. |
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & Character | Owen diposisikan sebagai pengguna praktikum; kebutuhannya adalah keandalan dan pemahaman, bukan fitur teknologi. |
+| Objective & State | Objective bergerak dari attention ke rasa ingin tahu pada mechanism, tanpa menyamakan pertanyaan dengan persetujuan. |
+| Repertoire & Language | Satu lapis penjelasan, diagram/checklist konseptual, dan pertanyaan terbuka digunakan. |
+| Response & Adaptation | Concern validitas mengubah rancangan dengan sumber, versi, dan pemeriksa; klaim dibatasi. |
+| Agreement & Action | Belum ada komitmen. Jika dilanjutkan, validasi checklist bersama instruksi praktikum dan minta target menguji satu contoh. |
+| Relationship Outcome | Mengakui risiko dan tidak defensif menjaga kredibilitas; outcome relasi aktual belum diketahui. |
+
+## Penggunaan AI
+
+AI membantu menyusun pitch, mengantisipasi concern, dan merapikan tabel hubungan problem–mechanism–benefit–value. AI tidak memvalidasi konfigurasi jaringan atau memberi persetujuan dari Owen. Nilai IP dan prosedur teknis harus diperiksa terhadap materi praktikum resmi sebelum dipakai.
+
+## Feedback dan tindak lanjut
+
+**Feedback role-play:** Pertanyaan tentang kemungkinan kesalahan checklist mengungkap concern yang tidak muncul dari pitch awal.  
+**Adaptation/replay:** Tampilkan hanya format kosong dahulu; isi contoh setelah sumber topologi diverifikasi dan sepakati siapa yang memeriksa perubahan.  
+**Next practice:** Setelah menjelaskan satu mechanism, berhenti dan tanyakan concern target sebelum menambah fitur atau detail.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Value untuk pengguna dan tanggung jawab pihak yang memvalidasi materi dibedakan. |
+| Objective & State | 4 | Attention, Interest awal, Desire, dan Action tidak dicampur; state uncertainty dipertahankan setelah pertanyaan target. |
+| Repertoire, Language & AI | 4 | Mechanism dijelaskan berlapis, evidence dibatasi, dan klaim teknis diarahkan untuk verifikasi sumber resmi. |
+| Response & Adaptation | 4 | Concern akurasi mengubah rancangan melalui sumber, versi, dan pemeriksa, bukan dijawab dengan defensif. |
+| Agreement, Action & Relationship | 3 | Ada langkah validasi, tetapi belum ada komitmen target. |
+
+**Total: 19/20.** Nilai 4 didukung pembacaan signal Interest dan adaptasi terhadap concern tersembunyi; agreement/action tetap 3 karena belum ada komitmen target, validasi checklist, atau dampak relasi pasca-pitch.

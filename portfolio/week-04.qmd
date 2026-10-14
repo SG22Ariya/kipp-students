@@ -1,8 +1,8 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "18/20"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
@@ -12,14 +12,60 @@ categories: [Fondasi, Language]
 
 Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 
-## Evidence wajib
-
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
-- Alasan perubahan language dan repertoire.
-- Feedback understanding dari sedikitnya satu target.
-
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+::: {.callout-warning title="Catatan validasi evidence"}
+Latihan penerjemahan dan role-play dilakukan menurut konfirmasi Ariya. Formulasi serta response di halaman ini direkonstruksi dengan bantuan AI, bukan kutipan verbatim. Skor menilai variasi language dan proses checking dalam latihan.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Meaning yang dipertahankan
+
+**Tanggal dan setting:** 22 September 2026, latihan penerjemahan satu gagasan untuk konteks Sistem dan Teknologi Informasi.  
+**Core meaning:** Encapsulation pada OOP membatasi akses langsung ke state internal object agar perubahan dilakukan melalui operasi yang terkontrol. Tujuannya bukan membuat data “aman mutlak”, melainkan menjaga aturan perubahan dan konsistensi object.
+
+## Five-language translation
+
+| Audience/character | Versi language | Repertoire dan alasan |
+|---|---|---|
+| Friend — Naufal | “Bayangin object itu punya data yang tidak diubah sembarangan. Kalau mau mengubahnya, kita lewat method yang sudah mengecek aturannya, jadi state object lebih konsisten.” | Analogi laci dengan akses teratur; ringan, tetapi tidak menyamakan encapsulation dengan keamanan absolut. |
+| Technical peer — Andra | “Field dibuat private dan perubahan state diekspos lewat method dengan invariant yang jelas. Jadi caller tidak dapat melewati validasi yang menjadi tanggung jawab class.” | Istilah teknis dipertahankan karena peer berbagi konteks OOP; fokus pada mechanism dan batasnya. |
+| Manager — Randy dalam role-play koordinator | “Aturan perubahan ditempatkan pada class yang memiliki datanya. Ini mengurangi risiko bagian program lain mengubah state dengan cara yang tidak konsisten, meskipun desain dan pengujiannya tetap harus benar.” | Bahasa dampak dan risiko; menghindari klaim bahwa encapsulation otomatis menghilangkan bug. |
+| Customer — Owen sebagai pengguna sistem | “Saat status pesanan berubah, sistem memeriksa dulu apakah perpindahan itu diperbolehkan. Dengan begitu status tidak langsung berubah ke kondisi yang tidak masuk akal.” | Contoh pengalaman pengguna; detail implementasi ditahan kecuali diminta. |
+| Public — teman sekelas umum | “Sebuah bagian program mengatur sendiri cara datanya boleh diubah. Bagian lain meminta perubahan melalui aturan tersebut, bukan mengubah isi sesuka hati.” | Definisi sederhana, tanpa jargon; tetap menyampaikan batas bahwa aturan harus dirancang dengan benar. |
+
+## Demonstrasi dan checking understanding
+
+Untuk latihan, ditampilkan contoh pseudocode `Pesanan.ubahStatus(statusBaru)` yang menolak perpindahan dari `Dibatalkan` ke `Dikirim`. Dalam role-play, Andra merespons: “Jadi yang dijaga itu aturan perubahan state, bukan otomatis kerahasiaan data?” Respons ini menunjukkan core meaning sampai pada technical peer dalam simulasi. Pertanyaan checking yang dipakai: “Menurutmu, apa yang dicegah oleh method itu, dan apa yang tidak dijamin?”
+
+Tidak ada rekaman latihan atau feedback aktual yang disertakan. Response di atas adalah contoh jawaban simulasi, bukan kutipan nyata.
+
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Lima versi mengubah detail sesuai teman, technical peer, koordinator, pengguna, dan publik. Nama hanya label karakter role-play. |
+| Objective & state | Objective tiap versi adalah pemahaman tentang kontrol perubahan state, bukan menghafal definisi. |
+| Repertoire & language | Analogi, istilah teknis, dampak operasional, contoh status, dan definisi sederhana dipilih berbeda. |
+| Response & adaptation | Pertanyaan checking menguji batas konsep; respons simulasi mengarahkan penegasan bahwa encapsulation bukan jaminan keamanan. |
+| Agreement/action | Latihan berikutnya: minta pendengar menjelaskan kembali satu hal yang dijamin dan satu hal yang tidak dijamin. |
+| Relationship outcome | Adaptasi menjaga audience tetap dihormati; kualitas relasi aktual tidak dinilai dari respons simulasi. |
+
+## Penggunaan AI
+
+AI membantu menyarankan lima formulasi dan contoh pseudocode. Aku memeriksa konsistensi konsep terhadap materi OOP dan menghapus klaim “data aman” karena terlalu kuat. Role-play serta feedback ditandai sebagai simulasi. AI tidak menjadi sumber otoritatif untuk definisi mata kuliah.
+
+## Feedback dan tindak lanjut
+
+**Feedback latihan simulasi:** Versi technical peer dipahami sebagai kontrol aturan perubahan, bukan kerahasiaan.  
+**Adaptation/replay:** Tambahkan satu contoh perpindahan status yang ditolak untuk menunjukkan batas konsep.  
+**Next practice:** Setelah menjelaskan konsep, minta pendengar menyebutkan kembali batas klaim sebelum menambah detail.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Lima character diberi kebutuhan, tingkat pengetahuan, dan konteks relasi yang berbeda. |
+| Objective & State | 3 | Core meaning dijaga, tetapi tujuan utama tetap sama yaitu pemahaman konsep. |
+| Repertoire, Language & AI | 4 | Analogi, jargon teknis, dampak operasional, contoh, dan definisi publik dipilih dengan alasan serta batas yang jelas. |
+| Response & Adaptation | 4 | Checking understanding menguji baik pemahaman maupun batas klaim; versi dapat disesuaikan bila pendengar mencampur encapsulation dengan confidentiality. |
+| Agreement, Action & Relationship | 3 | Tindak lanjut jelas; feedback aktual belum dilampirkan. |
+
+**Total: 18/20.** Nilai 4 didukung translasi untuk lima audience dan pemeriksaan misconception; Objective serta tindak lanjut belum mencapai level 4 karena belum ada beberapa tujuan yang saling bersaing atau feedback tertulis pasca-latihan.
