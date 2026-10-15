@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Sesi 1"
+subtitle: "Kasus 1 — Memimpin Diri dan Terus Belajar"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,154 +9,366 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Ariya Nanda Harimawan |
+| NIM | 18225089 |
+| Kelas dan tanggal | Komunikasi Interpersonal K1; 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 — Memimpin diri dan terus belajar |
+| Nama dan ID target | Diri mahasiswa; tokoh pembanding Dimas (K1-04) |
+| Versi bank/aturan penugasan | Bank 2.0; paket individual 2.0 |
+| Modalitas | Percakapan teks; bukan transkripsi suara |
+| Kasus nyata/fiktif | Pengalaman Ketua PDD dilaporkan sebagai pengalaman nyata oleh mahasiswa; skenario tantangan dan dialog Dimas adalah simulasi hipotetis |
+| Kelengkapan transkrip | Parsial. Laporan merekam rangkaian percakapan yang tersedia dalam konteks sesi ini; tidak ada rekaman eksternal. Identitas dikonfirmasi oleh mahasiswa, bukan diverifikasi secara independen. |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief kasus: pilih satu kemampuan yang ingin dikembangkan agar lebih berguna dalam kuliah, kerja, atau kehidupan; periksa cara memimpin diri saat menghadapi hambatan belajar. Target utama adalah diri mahasiswa. Dimas berfungsi sebagai tokoh pembanding untuk menguji penjelasan dan rencana, bukan sebagai pengganti target utama.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+Tujuan yang dirumuskan mahasiswa adalah meningkatkan konsistensi performa akademik dan profesional ketika menghadapi tekanan eksternal, terutama masalah persahabatan, percintaan, keluarga, dan kesehatan. Mahasiswa melaporkan bahwa tekanan dapat membagi perhatian, menurunkan fokus, dan memengaruhi performa. Pengalaman nyata yang digunakan adalah saat menjadi Ketua Divisi PDD: mahasiswa memprioritaskan penyelesaian tanggung jawab organisasi dan menerima penurunan performa akademik sebagai konsekuensi keputusan pada saat itu.
+
+Rencana tindak lanjut yang disepakati secara konseptual: selama satu minggu, buat daftar tanggung jawab akademik dan organisasi; tetapkan prioritas berdasarkan tenggat, dampak keterlambatan, urgensi, dan kebutuhan keterlibatan langsung; delegasikan tugas yang tidak harus ditangani sendiri; evaluasi ketepatan waktu tugas prioritas, keterlambatan akademik yang sebenarnya dapat dicegah, dan penggunaan delegasi. Ini masih rencana, bukan hasil uji nyata.
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti percakapan | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: kesadaran tanggung jawab, komitmen, pertimbangan dampak pada banyak orang. Kelemahan/risiko: fokus terpecah dan kecenderungan mengambil terlalu banyak pekerjaan sendiri. Peluang: memperbaiki prioritas, delegasi, dan evaluasi. Ancaman: tekanan pribadi, kesehatan, dan tuntutan bersamaan. | U003–U004, U006, U009, U013–U015 | Laporan diri dan interpretasi awal; bukan asesmen objektif |
+| Attitude | Mempertahankan prinsip tanggung jawab, menerima konsekuensi keputusan sadar, tidak menyesali keputusan masa lalu. Mulai membedakan prinsip dengan metode pelaksanaannya. | U006, U009, U013, U015 | Laporan diri; perubahan pemahaman tampak dalam refleksi, belum membuktikan perubahan perilaku |
+| Knowledge | Awalnya mengenali tekanan eksternal dan fokus terpecah; kemudian merumuskan kriteria prioritas: tenggat, dampak, urgensi, kebutuhan keterlibatan langsung. Memahami perbedaan konsekuensi yang sulit dihindari dan kerugian yang dapat dicegah. | U003–U004, U007, U010–U012, U015 | Pemahaman yang dinyatakan; penerapan belum diuji di dunia nyata |
+| Skill | Menyusun rencana konkret berupa daftar prioritas, delegasi, penyesuaian terbatas, dan evaluasi akhir hari/minggu. Keterampilan aktual di bawah tekanan belum teramati. | U007, U010–U012, U014–U015 | Rencana dan demonstrasi tertulis dalam skenario; bukan bukti perubahan keterampilan lapangan |
+| Preferensi/MBTI jika dilaporkan | Tidak ada MBTI diri yang dinyatakan atau dianalisis dalam sesi ini. | Seluruh sesi | Tidak tersedia; tidak didiagnosis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa mengaitkan keputusan dengan peran Ketua PDD, komitmen kepemimpinan, dan dampak terhadap anggota lintas bidang. | U004–U006 | Laporan diri; konteks lain belum diuji |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Konsistensi performa saat tekanan meningkat | A: pertahankan nilai tanggung jawab; K: pahami pola fokus dan konsekuensi; S: tata prioritas dan delegasi | Refleksi pengalaman dan dialog diri | Tujuan spesifik dan contoh pengalaman |
+| Attention | Mahasiswa menyadari masalah konsistensi dan fokus terpecah | Menghubungkan hambatan dengan perilaku belajar | Pertanyaan tentang perilaku nyata saat tekanan muncul | U003–U004 |
+| Interest | Pengalaman Ketua PDD relevan bagi mahasiswa | Menjelaskan konsekuensi dan alasan prioritas | Refleksi pengalaman tanpa menghakimi keputusan | U004–U006 |
+| Desire | Mahasiswa ingin menjaga prinsip sambil meningkatkan efektivitas | Memisahkan prinsip dari metode; mengakui risiko mengambil terlalu banyak pekerjaan | Pesan kepada diri, simulasi tantangan, penetapan indikator | U006–U012 |
+| Action | Rencana satu minggu dirumuskan, belum dilakukan | Mengubah refleksi menjadi tindakan dan ukuran evaluasi | Daftar prioritas, delegasi, evaluasi mingguan | U014–U015; hasil lapangan belum tersedia |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Catatan transkrip:** pesan mahasiswa di bawah dipertahankan sesuai teks yang tersedia. Respons fasilitator disajikan sesuai percakapan aktual yang tersedia. ID dipakai untuk merujuk bukti dalam evaluasi. Segmen Dimas adalah simulasi, bukan interaksi dengan orang nyata. Karena transkrip lengkap sesi dari awal hingga akhir tidak tersedia sebagai ekspor mandiri, laporan ini dinyatakan parsial.
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+## Identifikasi dan tujuan
 
-### U001 - Mahasiswa - [Tahap]
+**AI001 — Fasilitator (identifikasi)**  
+Identitas sesi: nama Ariya Nanda Harimawan, NIM 18225089, kelas belum diisi, tanggal sesi 15 Oktober 2026, modalitas percakapan teks. Apakah nama dan NIM tersebut benar, dan kamu dari kelas apa?
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**U001 — Mahasiswa**  
+Nama dan nim saya sudah benar, saya dari kelas komunikasi interpersonal K1
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**AI002 — Fasilitator (kasus dan tujuan)**  
+Brief kasus 1: pilih satu kemampuan yang ingin dikembangkan untuk kuliah, kerja, atau kehidupan. Kemampuan boleh akademik, komunikasi, manajemen waktu, konsistensi, atau lainnya. Kemampuan apa yang paling ingin dikembangkan, mengapa penting, dan hambatan apa yang biasanya membuat sulit berkembang?
 
-[Tempel pesan AI persis seperti sumber.]
+**U002 — Mahasiswa**  
+Saya melihat kemampuan yang ingin saya kembangkan adalah kemampuan dalam konsistensi karena saya merasa bahwa saya memiliki potensi untuk memimpin kerja dengan performa terbaik tetapi mudah terkena mental dari faktor eksternal seperti persahabatan, percintaan dan keluarga yang dapat mempengaruhi performa konsistensi di dunia akademik ataupun profesional, selain itu masalah kesehatan juga dapat berpengaruh dan menjadi hambatan dalam membuat saya berkembang
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI003 — Fasilitator (pemetaan diri awal)**  
+Dari jawabanmu, tujuan pengembangan diri yang mulai terlihat adalah membangun konsistensi performa tanpa membiarkan tekanan eksternal sepenuhnya menentukan tindakanmu. Ini masih dugaan awal, bukan kesimpulan final. Ketika masalah pribadi mengganggu pikiran, apa yang biasanya benar-benar terjadi pada perilaku belajarmu? Ceritakan satu contoh dan apa yang dilakukan untuk memulihkan performa.
+
+**U003 — Mahasiswa**  
+Saya menyadari ketika ada permasalahan yang menggangu pikiran saya yang biasanya terjadi pada perilaku belajar adalah menurunnya tingkat fokus diakibatkan fokus dan pemikiran yang terpecah menjadi 2 hal yang berbeda sehingga kinerja otak meningkatkan dan fokus menurun
+
+**AI004 — Fasilitator (respons terhadap pola)**  
+Masalah utamamu tampaknya bukan sekadar kurangnya kemampuan belajar. Ketika ada masalah pribadi, perhatian terbagi antara tugas akademik dan persoalan yang dipikirkan, sehingga fokus dan performa menurun. Kekuatan potensialnya adalah kesadaran diri; hal yang perlu dikembangkan adalah pengelolaan perhatian saat tekanan. Ketika menghadapi tugas penting dan masalah hubungan pribadi sekaligus, apa yang biasanya kamu lakukan untuk mengembalikan fokus?
+
+**U004 — Mahasiswa**  
+Mementingkan prioritas utama terlebih dahulu dan yang menjadi komitmen utama saya contoh saya pernah menghadapi permasalahan menjadi seorang ketua PDD dan ada permasalahan antar bidang oleh karenanya saya memutuskan untuk menyelesaikan tanggung jawab saya dahulu karena lebih banyak melibatkan banyak orang dan tanggung jawab yang menurut saya jauh lebih besar daripada akademik
+
+**AI005 — Fasilitator (analisis perilaku dan prioritas)**  
+Dalam pengalaman Ketua PDD, kamu memilih menyelesaikan tanggung jawab organisasi karena melibatkan banyak orang dan kamu menilai tanggung jawab tersebut lebih besar pada saat itu. Kekuatan yang terlihat adalah menetapkan prioritas dan mempertimbangkan dampak; risiko yang perlu dievaluasi adalah kebutuhan akademik bisa berulang kali berada di urutan kedua. Apa yang terjadi pada akademikmu setelah keputusan itu, dan bagaimana kamu menilainya sekarang?
+
+**U005 — Mahasiswa**  
+Setelah yang terjadi adalah akademik mengalami nilai yang turun tapi bagi saya tidak masalah karena saya melihat bahwa masih ada kesempatan untuk mengejar dikesempatan lain tetapi tanggung jawab yang tidak diselesaikan dan melibatkan banyak orang dapat menyebabkan kekecewaan
+
+**AI006 — Fasilitator (cermin diri)**  
+Kamu menggunakan prinsip tanggung jawab terhadap banyak orang sebagai dasar prioritas. Hal yang perlu diuji adalah apakah ini prioritas sadar untuk situasi tertentu atau pola berulang yang membuat akademik cenderung berada di urutan kedua. Jika situasi serupa terjadi lagi, apa yang akan dipertahankan dan apa yang akan diubah agar konsisten dalam jangka panjang?
+
+**U006 — Mahasiswa**  
+Semua hal yang telah anda simpulkan akan saya pertahankan tidak ada penyesalan bagi saya atas keputusan yang telah saya buat dan menurut saya keputusan yang telah saya buat adalah pilihan yang terbaik dan jika saya tetap mempertahankan nilai dan prinsip saya yang demikian maka itu adalah cara awal untuk konsisten jangka panjang
+
+**AI007 — Fasilitator (pesan kepada diri sendiri)**  
+Kita tidak perlu mengubah prinsip-prinsip tersebut. Yang ditelusuri adalah bagaimana prinsip diterapkan tanpa membuat performa sepenuhnya bergantung pada keadaan. Tuliskan pesan yang benar-benar akan kamu sampaikan kepada diri sendiri ketika tanggung jawab organisasi, tekanan pribadi, dan tuntutan akademik muncul bersamaan.
+
+**U007 — Mahasiswa**  
+Saya harus mengingat kembali alasan mengapa saya memilih untuk tetap menjalankan tanggung jawab yang telah dipercayakan kepada saya, meskipun saya menyadari bahwa keputusan tersebut dapat berdampak pada performa akademik saya. Saya memahami bahwa dalam posisi sebagai pemimpin, keputusan yang saya ambil tidak hanya berdampak pada diri sendiri, tetapi juga pada orang-orang yang bergantung pada keputusan dan tindakan saya. Oleh karena itu, ketika menghadapi persoalan dalam organisasi, saya merasa bahwa menyelesaikan tanggung jawab tersebut merupakan hal yang perlu saya prioritaskan.  
+
+Saya menyadari bahwa keputusan ini memiliki konsekuensi. Nilai akademik saya mengalami penurunan, tetapi saya tidak memandang hal tersebut sebagai alasan untuk menyesali keputusan yang telah saya buat. Bagi saya, nilai akademik yang menurun masih memberikan kesempatan untuk memperbaiki diri pada kesempatan berikutnya. Sebaliknya, tanggung jawab yang tidak diselesaikan dengan baik dapat berdampak pada banyak orang dan menjadi bentuk ketidakmampuan saya dalam memenuhi kepercayaan yang telah diberikan.  
+
+Saya tidak ingin menjadikan keadaan yang sulit sebagai pembenaran untuk menghindari tanggung jawab. Namun, saya juga perlu memahami bahwa bertanggung jawab bukan berarti saya harus mengabaikan seluruh aspek kehidupan lainnya. Saya harus belajar mengelola waktu, energi, dan prioritas dengan lebih baik agar keputusan yang saya ambil tidak selalu mengharuskan saya mengorbankan satu hal demi hal lainnya.  
+
+Pada akhirnya, saya tetap akan mempertahankan prinsip yang saya yakini. Saya tidak menyesali keputusan yang telah saya buat karena keputusan tersebut merupakan hasil pertimbangan sadar berdasarkan nilai yang saya pegang. Saya bersedia menerima konsekuensinya dan bertanggung jawab atas pilihan saya sendiri. Bagi saya, konsistensi bukan sekadar mempertahankan prinsip ketika keadaan mendukung, melainkan tetap berpegang pada prinsip tersebut ketika menghadapi tekanan dan konsekuensi yang tidak mudah.  
+
+Hal yang perlu saya perbaiki bukanlah prinsip saya, melainkan cara saya menerapkannya. Saya ingin menjadi seseorang yang mampu memenuhi tanggung jawab kepada orang lain tanpa kehilangan kendali atas tanggung jawab terhadap diri sendiri. Saya tidak harus mengubah nilai yang saya yakini hanya demi memperoleh hasil yang lebih baik, tetapi saya harus terus mengembangkan kemampuan agar dapat mempertahankan nilai tersebut dengan cara yang lebih efektif dan berkelanjutan.
+
+**AI008 — Fasilitator (simulasi tantangan konkret)**  
+Bayangkan kamu Ketua PDD, dua hari sebelum acara terjadi konflik antarbidang, tugas akademik juga memiliki tenggat dekat, dan masalah pribadi mengganggu fokus. Apa tiga tindakan konkret dalam 24 jam pertama?
+
+**U008 — Mahasiswa**  
+**1. Menentukan prioritas berdasarkan urgensi dan dampak tanggung jawab.** Dalam 24 jam pertama, saya akan mengidentifikasi persoalan yang membutuhkan keputusan segera, terutama konflik antarbidang yang berpotensi menghambat persiapan acara. Saya akan menilai dampak setiap persoalan terhadap keberlangsungan acara, tanggung jawab anggota, dan tenggat akademik yang harus saya penuhi. Saya tidak akan secara otomatis menganggap seluruh urusan organisasi lebih penting daripada akademik, tetapi menentukan prioritas berdasarkan konsekuensi nyata apabila suatu pekerjaan tidak segera diselesaikan. Dengan demikian, keputusan saya tetap berlandaskan tanggung jawab, bukan sekadar dorongan untuk menyelesaikan semua persoalan sendiri.  
+
+**2. Mendelegasikan pekerjaan tanpa melepaskan tanggung jawab sebagai pemimpin.** Saya akan menghubungi pihak-pihak yang terlibat dalam konflik untuk mengidentifikasi inti permasalahan dan menentukan solusi yang dapat diterima. Namun, saya tidak akan mengambil alih seluruh pekerjaan hanya karena saya merasa bertanggung jawab atas hasil akhirnya. Saya akan membagi tugas kepada anggota yang kompeten, menetapkan batas waktu penyelesaian, dan menentukan mekanisme pelaporan agar pekerjaan tetap terkontrol. Bagi saya, menjadi pemimpin bukan berarti harus mengerjakan semuanya sendiri, melainkan memastikan setiap tanggung jawab terlaksana dengan baik melalui koordinasi dan keputusan yang tepat.  
+
+**3. Mengendalikan kondisi diri dan menetapkan target kerja yang realistis.** Saya akan mengalokasikan waktu khusus untuk menyelesaikan tugas akademik, sekaligus menetapkan batas waktu untuk menangani persoalan organisasi. Ketika masalah pribadi mulai mengganggu konsentrasi, saya akan berusaha memisahkan persoalan yang dapat saya selesaikan saat itu dari hal-hal yang belum dapat saya kendalikan. Saya tidak mengharapkan diri saya untuk selalu berada dalam kondisi optimal, tetapi saya tetap harus mampu mengambil tindakan yang diperlukan meskipun sedang menghadapi tekanan. Pada akhir hari, saya akan mengevaluasi pekerjaan yang telah diselesaikan, tanggung jawab yang masih tertunda, dan penyesuaian yang perlu dilakukan pada hari berikutnya.  
+
+Melalui ketiga tindakan tersebut, saya tidak bermaksud mengubah prinsip yang selama ini saya pegang. Saya tetap ingin menjadi seseorang yang dapat dipercaya dan bersedia menerima konsekuensi dari keputusan yang dibuat secara sadar. Namun, saya juga memahami bahwa konsistensi jangka panjang membutuhkan kemampuan untuk mengelola sumber daya dan keterbatasan diri. Saya ingin mempertahankan standar tanggung jawab yang sama, tetapi dengan cara kerja yang lebih terstruktur, sehingga komitmen saya terhadap orang lain tidak harus selalu dibayar dengan mengabaikan tanggung jawab terhadap diri sendiri.
+
+**AI009 — Fasilitator (evaluasi sementara)**  
+Kamu mulai membedakan mempertahankan prinsip dari mempertahankan cara bertindak. Setelah membaca kembali pesan kepada diri sendiri, apakah ada perubahan dalam cara memandang masalah konsistensi, atau keyakinanmu tetap sama?
+
+**U009 — Mahasiswa**  
+Setelah menulis dan membaca kembali pesan untuk diri sendiri, pada dasarnya tidak ada perubahan mendasar dalam prinsip yang saya yakini. Saya tetap berpendapat bahwa keputusan yang telah saya ambil merupakan pilihan yang paling sesuai dengan pertimbangan dan nilai yang saya pegang pada saat itu. Saya tidak menyesali keputusan tersebut, termasuk konsekuensi berupa penurunan performa akademik, karena saya memahami bahwa setiap keputusan memiliki konsekuensi yang harus saya terima secara sadar.  
+
+Namun, refleksi ini membantu saya melihat bahwa konsistensi tidak hanya berkaitan dengan keteguhan dalam mempertahankan prinsip, tetapi juga dengan kemampuan mengevaluasi cara saya menerapkannya. Sebelumnya, saya lebih berfokus pada penyelesaian tanggung jawab yang telah dipercayakan kepada saya, meskipun hal tersebut menuntut pengorbanan dari aspek kehidupan lainnya. Sekarang, saya mulai melihat bahwa ada ruang untuk memperbaiki cara kerja, pembagian tanggung jawab, dan pengelolaan prioritas tanpa harus mengubah prinsip yang mendasari keputusan saya.  
+
+Saya tetap meyakini bahwa tanggung jawab terhadap orang lain tidak boleh diabaikan hanya demi kepentingan pribadi. Akan tetapi, saya mulai memahami bahwa bertanggung jawab tidak selalu berarti harus menyelesaikan segala sesuatu dengan kemampuan sendiri. Mempercayakan pekerjaan kepada orang lain, menetapkan batasan, dan mengelola waktu secara lebih terstruktur juga merupakan bagian dari tanggung jawab, terutama ketika saya berada dalam posisi kepemimpinan.  
+
+Bagi saya, hal yang perlu dikembangkan bukanlah kesediaan untuk berkorban demi tanggung jawab, melainkan kemampuan menentukan bentuk pengorbanan yang benar-benar diperlukan. Saya tidak ingin kehilangan prinsip hanya karena ingin menjaga performa akademik, tetapi saya juga tidak ingin menganggap setiap penurunan performa sebagai konsekuensi yang tidak dapat dihindari.  
+
+Dengan demikian, refleksi ini tidak mengubah keyakinan dasar saya, tetapi memperluas cara saya memandang penerapannya. Saya tetap ingin konsisten terhadap nilai yang saya pegang, sekaligus menjadi lebih efektif dalam mengambil keputusan. Bagi saya, konsistensi jangka panjang bukan berarti selalu mengulangi pola tindakan yang sama, melainkan mempertahankan nilai yang sama sambil terus memperbaiki cara bertindak berdasarkan pengalaman dan evaluasi diri.
+
+## Simulasi pembanding: Dimas (K1-04)
+
+**AI010 — Dimas, tokoh pembanding (simulasi)**  
+“Apa bukti pendekatan ini lebih baik?”
+
+**U010 — Mahasiswa**  
+Menurut saya, bukti bahwa pendekatan ini lebih baik tidak cukup hanya didasarkan pada teori atau asumsi, tetapi harus dilihat dari hasil penerapannya. Berdasarkan pengalaman saya sebagai Ketua PDD, saya pernah berada dalam situasi ketika tanggung jawab organisasi menuntut perhatian yang besar hingga berdampak pada performa akademik saya. Saya tidak menyesali keputusan yang saya ambil karena pada saat itu saya menilai bahwa menyelesaikan tanggung jawab terhadap banyak orang merupakan pilihan yang paling tepat.  
+
+Namun, saya juga menyadari bahwa keputusan yang dapat dipertanggungjawabkan belum tentu merupakan keputusan dengan proses yang paling efektif. Karena itu, saya ingin menguji pendekatan yang berbeda, bukan dengan mengubah prinsip tanggung jawab yang saya pegang, melainkan dengan memperbaiki cara saya menjalankannya melalui penentuan prioritas, delegasi, dan evaluasi yang lebih terstruktur.  
+
+Bagi saya, pendekatan ini akan lebih baik apabila nantinya terbukti mampu menjaga kualitas penyelesaian tanggung jawab organisasi tanpa menimbulkan pengorbanan akademik yang sebenarnya dapat diminimalkan. Saya tidak bisa menjamin bahwa pendekatan ini akan selalu berhasil, tetapi saya bisa menetapkan indikator untuk mengevaluasinya, seperti ketepatan waktu penyelesaian tugas, efektivitas koordinasi tim, dan pencapaian akademik.  
+
+Jadi, saya tidak meminta kamu untuk langsung menyetujui pendekatan saya. Saya hanya mengajak kamu mempertimbangkan bahwa mempertahankan prinsip dan memperbaiki metode pelaksanaannya merupakan dua hal yang dapat berjalan bersamaan. Jika hasil penerapannya tidak lebih baik, saya juga harus bersedia mengevaluasi kembali pendekatan tersebut. Menurut saya, justru kesediaan untuk menguji dan memperbaiki keputusan berdasarkan hasil nyata merupakan bagian dari konsistensi dan tanggung jawab itu sendiri.
+
+**AI011 — Dimas (simulasi)**  
+Dimas memahami alasanmu, tetapi mempertanyakan keterbatasan waktu untuk menjalankan penentuan prioritas, delegasi, dan evaluasi sekaligus. Jika hanya punya sedikit waktu untuk mencoba pendekatan, apa langkah pertama yang akan dilakukan dan indikator apa yang menunjukkan langkah itu layak dipertahankan?
+
+**U011 — Mahasiswa**  
+Jika saya hanya boleh memilih satu langkah untuk minggu pertama, saya akan memulai dengan menentukan prioritas berdasarkan urgensi dan dampak dari setiap tanggung jawab yang saya miliki.  
+
+Alasannya, berdasarkan pengalaman saya sebagai Ketua PDD, salah satu tantangan terbesar bukan sekadar banyaknya pekerjaan, melainkan adanya beberapa tanggung jawab yang menuntut perhatian dalam waktu bersamaan. Saya perlu memastikan bahwa keputusan yang saya ambil didasarkan pada pertimbangan yang jelas, bukan hanya karena suatu persoalan terasa mendesak atau karena saya merasa harus menyelesaikan semuanya sendiri.  
+
+Secara konkret, pada awal minggu saya akan membuat daftar seluruh tanggung jawab organisasi dan akademik, kemudian menetapkan urutan pengerjaannya berdasarkan tenggat waktu, dampak jika terlambat, dan tingkat urgensinya. Saya akan menggunakan daftar tersebut sebagai acuan sebelum memutuskan pekerjaan mana yang harus saya tangani terlebih dahulu.  
+
+Indikator keberhasilannya sederhana: **pada akhir minggu, saya dapat menyelesaikan tugas yang telah saya tetapkan sebagai prioritas sesuai tenggat waktu yang direncanakan.** Saya akan mengevaluasi apakah penentuan prioritas tersebut membantu saya mengelola tanggung jawab dengan lebih terarah atau justru masih menyisakan masalah yang sama.  
+
+Saya memilih langkah ini karena menurut saya, sebelum memperbaiki delegasi atau mengevaluasi penggunaan waktu secara lebih mendalam, saya perlu memahami terlebih dahulu pekerjaan mana yang memang harus didahulukan. Saya tidak menganggap langkah ini sebagai jaminan bahwa semua masalah akan terselesaikan, tetapi sebagai titik awal yang konkret untuk menguji apakah pendekatan saya dapat menjadi lebih efektif tanpa mengubah prinsip tanggung jawab yang selama ini saya pegang.
+
+**AI012 — Dimas (simulasi)**  
+Dimas mengakui rencana itu lebih konkret, lalu menguji situasi ketika tugas organisasi selesai tetapi tugas akademik tetap terlambat. Apakah pendekatan dianggap berhasil karena prioritas utama terpenuhi, atau belum berhasil karena tanggung jawab akademik terdampak?
+
+**U012 — Mahasiswa**  
+Menurut saya, keberhasilan pendekatan ini tidak dapat diukur hanya dari terselesaikannya tugas organisasi yang menjadi prioritas, tetapi juga dari seberapa baik saya mengelola konsekuensi terhadap tanggung jawab lainnya. Jika pada akhir minggu seluruh tugas organisasi berhasil diselesaikan, tetapi tugas akademik saya tetap terlambat, saya akan menganggap pendekatan tersebut berhasil pada satu aspek, tetapi belum sepenuhnya berhasil dalam pengelolaan tanggung jawab secara keseluruhan.  
+
+Saya tidak akan langsung menyimpulkan bahwa keputusan saya salah, karena saya perlu melihat situasi yang melatarbelakanginya. Bagi saya, ada perbedaan antara konsekuensi yang memang sulit dihindari setelah mempertimbangkan seluruh alternatif dan konsekuensi yang muncul karena perencanaan, pembagian tugas, atau pengambilan keputusan yang kurang efektif. Jika keterlambatan akademik terjadi karena keadaan yang benar-benar tidak dapat saya kendalikan, saya akan menerima konsekuensinya dan mencari cara untuk memperbaiki keadaan. Namun, jika keterlambatan tersebut sebenarnya dapat dicegah melalui pengaturan waktu yang lebih baik atau pendelegasian pekerjaan, saya harus mengakui bahwa ada bagian dari proses pengambilan keputusan saya yang perlu diperbaiki.  
+
+Jika hasilnya belum sesuai harapan, hal pertama yang akan saya evaluasi adalah ketepatan prioritas yang saya tetapkan. Saya akan memeriksa apakah saya telah mempertimbangkan urgensi dan dampak setiap tanggung jawab secara objektif, apakah saya terlalu banyak mengambil pekerjaan yang sebenarnya dapat didelegasikan, dan apakah alokasi waktu yang saya buat realistis. Dengan demikian, evaluasi saya tidak berhenti pada hasil akhir, tetapi juga mencakup proses yang menghasilkan keputusan tersebut.  
+
+Saya tetap meyakini bahwa tanggung jawab terhadap orang lain merupakan prinsip yang penting bagi saya. Saya juga tidak ingin menjadikan pencapaian akademik sebagai satu-satunya ukuran keberhasilan, seolah-olah seluruh keputusan harus selalu menghasilkan nilai yang baik. Namun, saya tidak ingin menggunakan prinsip tanggung jawab sebagai pembenaran untuk mengabaikan dampak keputusan yang sebenarnya dapat saya kendalikan.  
+
+Pada akhirnya, bagi saya, konsistensi berarti berpegang pada nilai yang sama sambil bersedia mengoreksi cara penerapannya. Saya dapat menerima konsekuensi dari keputusan yang telah dipertimbangkan dengan matang, tetapi saya juga harus mampu membedakan antara pengorbanan yang memang diperlukan dan kerugian yang muncul akibat kelemahan dalam pengelolaan diri. Jika pendekatan saya belum menghasilkan keseimbangan yang lebih baik, saya tidak harus meninggalkan prinsip tersebut. Saya perlu memperbaiki cara mengambil keputusan agar tanggung jawab yang saya pegang dapat dijalankan secara lebih efektif dan berkelanjutan.
+
+**AI013 — Dimas (simulasi, uji ulang)**  
+Dimas mengajukan kendala baru: bagaimana jika prioritas harus berubah pada pertengahan minggu? Jika daftar terus disusun ulang, prosesnya dapat menyita waktu. Bagaimana menyesuaikan prioritas dan menentukan perubahan yang layak menggeser rencana?
+
+**U013 — Mahasiswa**  
+Menurut saya, daftar prioritas tidak seharusnya menjadi sesuatu yang kaku, tetapi juga tidak perlu disusun ulang setiap kali muncul pekerjaan baru. Saya akan menjadikannya sebagai pedoman pengambilan keputusan yang dapat disesuaikan apabila terdapat perubahan keadaan yang benar-benar signifikan.  
+
+Jika pada pertengahan minggu muncul tugas organisasi yang mendesak, saya tidak akan langsung meninggalkan pekerjaan yang sedang saya kerjakan. Saya akan terlebih dahulu menilai tiga hal: seberapa dekat tenggat tugas baru tersebut, seberapa besar dampaknya jika tidak segera ditangani, dan apakah tugas tersebut benar-benar membutuhkan keterlibatan saya secara langsung. Penilaian ini harus dilakukan secara singkat agar saya tidak menghabiskan lebih banyak waktu untuk mengatur pekerjaan daripada menyelesaikannya.  
+
+Bagi saya, suatu pekerjaan layak menggeser prioritas sebelumnya apabila dampak keterlambatannya lebih besar, terdapat tenggat yang tidak dapat ditunda, atau pekerjaan tersebut bergantung pada keputusan yang memang hanya dapat saya ambil sebagai Ketua PDD. Sebaliknya, jika pekerjaan tersebut masih dapat ditangani oleh anggota lain, tenggatnya masih memungkinkan, atau dampaknya tidak terlalu signifikan, saya tidak perlu langsung mengubah urutan prioritas. Saya dapat mendelegasikan pekerjaan tersebut atau menjadwalkannya setelah tugas yang sedang berjalan selesai.  
+
+Untuk menjaga agar proses ini tetap efisien, saya akan menggunakan daftar prioritas yang sama sepanjang minggu dan hanya memperbaruinya ketika ada perubahan yang memenuhi kriteria tersebut. Saya tidak perlu menyusun ulang seluruh daftar, melainkan cukup menentukan apakah tugas baru harus dikerjakan segera, didelegasikan, atau dijadwalkan kemudian. Dengan demikian, penyesuaian dilakukan seperlunya, bukan setiap kali keadaan berubah.  
+
+Saya juga akan mengevaluasi apakah perubahan prioritas tersebut menyebabkan tanggung jawab lain terancam terlambat. Jika demikian, saya harus segera menentukan langkah penanganannya, misalnya mengurangi pekerjaan yang dapat ditunda, meminta bantuan anggota tim, atau menyesuaikan jadwal pengerjaan tugas akademik tanpa mengabaikan tenggatnya.  
+
+Pada akhirnya, saya tidak menganggap konsistensi sebagai kewajiban untuk mengikuti rencana awal tanpa mempertimbangkan keadaan. Bagi saya, konsistensi terletak pada penggunaan prinsip pengambilan keputusan yang tetap, meskipun keputusan akhirnya dapat berubah. Saya tetap berpegang pada tanggung jawab sebagai dasar tindakan, tetapi saya harus mampu membedakan perubahan yang memang menuntut respons segera dari perubahan yang sebenarnya masih dapat dikelola. Dengan pendekatan ini, saya dapat mempertahankan arah kerja tanpa kehilangan fleksibilitas, sekaligus menghindari kebiasaan mengorbankan tanggung jawab lain hanya karena muncul persoalan baru.
+
+**AI014 — Fasilitator (evaluasi uji ulang)**  
+Setelah tantangan Dimas, bagian mana dari pendekatanmu yang paling kuat dan bagian mana yang paling berisiko gagal saat berada di bawah tekanan?
+
+**U014 — Mahasiswa**  
+Menurut penilaian saya, bagian paling kuat dari pendekatan ini adalah konsistensi prinsip yang disertai kesediaan untuk mengevaluasi cara penerapannya. Berdasarkan pengalaman saya sebagai Ketua PDD, saya memahami bahwa tanggung jawab yang dipercayakan kepada saya tidak hanya berkaitan dengan kepentingan pribadi, tetapi juga dengan kepentingan orang lain yang bergantung pada keputusan saya. Karena itu, saya tetap meyakini bahwa menyelesaikan tanggung jawab merupakan hal yang penting, sekalipun saya harus menghadapi konsekuensi yang tidak selalu menguntungkan bagi diri sendiri.  
+
+Namun, melalui tantangan yang diberikan Dimas, saya menyadari bahwa mempertahankan prinsip saja tidak cukup untuk menjamin efektivitas pengambilan keputusan. Saya perlu memiliki kriteria yang jelas dalam menentukan prioritas, mempertimbangkan delegasi, dan menyesuaikan rencana ketika keadaan berubah. Menurut saya, kekuatan pendekatan ini terletak pada kemampuannya mempertahankan nilai tanggung jawab tanpa mengharuskan saya menggunakan metode yang sama dalam setiap situasi.  
+
+Sementara itu, bagian yang paling berisiko gagal ketika saya berada di bawah tekanan adalah penerapan pendekatan tersebut secara konsisten. Ketika beberapa persoalan muncul secara bersamaan, saya berpotensi terlalu berfokus pada penyelesaian tanggung jawab yang berdampak pada banyak orang, sehingga kurang memberikan perhatian terhadap tanggung jawab lain yang juga penting. Saya juga berisiko mengambil terlalu banyak pekerjaan sendiri karena merasa bahwa sebagai pemimpin, saya harus memastikan seluruh persoalan terselesaikan dengan baik.  
+
+Saya menyadari bahwa memahami pentingnya delegasi dan pengelolaan prioritas secara teoritis tidak serta-merta membuat saya mampu menerapkannya ketika menghadapi situasi yang mendesak. Dalam keadaan tertekan, saya mungkin tetap memilih untuk menyelesaikan persoalan secara langsung tanpa mempertimbangkan apakah terdapat cara lain yang lebih efektif. Oleh karena itu, tantangan terbesar saya bukanlah menentukan prinsip yang harus dipegang, melainkan memastikan bahwa keputusan dan tindakan saya benar-benar mencerminkan prinsip tersebut secara efektif.  
+
+Untuk mengatasi risiko tersebut, saya akan memulai dengan tindakan sederhana, yaitu menetapkan prioritas berdasarkan tenggat waktu, dampak keterlambatan, dan tingkat urgensi. Saya akan mengevaluasi hasilnya pada akhir minggu untuk melihat apakah pendekatan tersebut membantu saya menyelesaikan tanggung jawab dengan lebih terarah. Jika hasilnya belum sesuai harapan, saya akan meninjau proses pengambilan keputusan dan cara saya mengelola pekerjaan, bukan langsung menyimpulkan bahwa prinsip yang saya pegang harus diubah.  
+
+Pada akhirnya, saya menilai bahwa pendekatan ini memiliki dasar yang kuat, tetapi efektivitasnya masih perlu dibuktikan melalui penerapan nyata. Saya tetap ingin mempertahankan nilai tanggung jawab dan kesediaan menerima konsekuensi dari keputusan yang dibuat secara sadar. Namun, saya juga perlu mengembangkan kemampuan untuk membedakan pengorbanan yang memang diperlukan dari kerugian yang sebenarnya dapat dicegah. Bagi saya, konsistensi jangka panjang berarti mempertahankan prinsip yang diyakini sambil terus memperbaiki cara menerapkannya berdasarkan pengalaman, hasil, dan evaluasi diri.
+
+**AI015 — Fasilitator (refleksi komunikasi)**  
+Pesan apa yang membantu atau menghambat Dimas merasa dipercaya dan dipedulikan, dan apa bukti responsnya?
+
+**U015 — Mahasiswa**  
+Menurut saya, pesan yang paling membantu Dimas merasa dipercaya dan dipedulikan adalah ketika saya menyampaikan pendapat berdasarkan pengalaman pribadi tanpa memaksanya untuk menerima sudut pandang saya. Saya berusaha menjelaskan alasan di balik keputusan yang saya ambil sebagai Ketua PDD, sekaligus mengakui bahwa pendekatan saya masih memiliki kelemahan dan perlu diuji melalui penerapan nyata.  
+
+Saya menilai bahwa sikap tersebut penting dalam komunikasi karena saya tidak menempatkan pendapat saya sebagai satu-satunya cara yang benar. Saya memberikan ruang bagi Dimas untuk mempertanyakan pendekatan saya, termasuk ketika ia menguji keterbatasan waktu, kemungkinan keterlambatan tugas akademik, dan perubahan prioritas secara mendadak. Saya berusaha menanggapi pertanyaan tersebut dengan alasan yang jelas dan tindakan konkret, bukan dengan mempertahankan pendapat saya semata-mata karena saya meyakininya.  
+
+Bukti yang mendukung penilaian saya terlihat dari perubahan respons Dimas sepanjang percakapan. Pada awalnya, Dimas mempertanyakan bukti bahwa pendekatan saya lebih baik. Setelah saya menjelaskan bahwa pendekatan tersebut perlu diuji melalui indikator yang dapat diperiksa, Dimas menyatakan bahwa ia memahami argumen saya dan menghargai kesediaan saya untuk menawarkan indikator evaluasi. Selanjutnya, ia mengakui bahwa pendekatan saya lebih konkret karena memiliki tindakan awal dan ukuran keberhasilan yang dapat diuji. Respons tersebut menunjukkan bahwa penjelasan saya membantunya memahami dasar pemikiran saya, meskipun belum membuktikan bahwa ia sepenuhnya menyetujui atau merasa dipedulikan secara emosional.  
+
+Di sisi lain, saya menyadari bahwa komunikasi saya masih lebih berfokus pada penjelasan logis dan pembuktian efektivitas pendekatan daripada secara langsung menunjukkan perhatian terhadap sudut pandang atau kekhawatiran Dimas. Saya banyak menjelaskan alasan, kriteria, dan indikator, tetapi belum secara eksplisit mengakui bagaimana kekhawatiran Dimas dapat muncul dari keterbatasan yang nyata. Dengan demikian, meskipun pendekatan saya membantu membangun pemahaman, bukti bahwa Dimas merasa benar-benar dipedulikan masih terbatas.  
+
+Jika menghadapi percakapan serupa di masa mendatang, saya akan tetap menggunakan penjelasan yang logis dan terbuka terhadap kritik, tetapi juga berusaha menunjukkan bahwa saya memahami alasan di balik pertanyaan lawan bicara. Saya dapat mengakui kekhawatirannya terlebih dahulu sebelum menjelaskan sudut pandang saya. Menurut saya, komunikasi yang efektif tidak hanya ditentukan oleh kemampuan mempertahankan argumen, tetapi juga oleh kemampuan membuat orang lain merasa bahwa pertanyaan dan perspektif mereka dihargai.  
+
+Pada akhirnya, saya menilai bahwa komunikasi saya dengan Dimas cukup berhasil dalam membangun pemahaman dan membuka ruang evaluasi bersama. Namun, saya belum memiliki bukti yang cukup untuk menyimpulkan bahwa seluruh kebutuhan emosional dalam komunikasi tersebut telah terpenuhi. Bagi saya, hal ini menjadi pembelajaran bahwa menyampaikan pemikiran secara jelas merupakan bagian penting dari komunikasi, tetapi mendengarkan, mengakui kekhawatiran, dan menunjukkan kepedulian juga perlu mendapat perhatian yang sama.
+
+**AI016 — Fasilitator (uji ulang diri)**  
+Bayangkan pada minggu berikutnya hambatan serupa muncul lagi. Apa tindakan yang akan dijalankan sekarang dan indikator apa yang akan digunakan untuk mengetahui apakah konsistensi membaik?
+
+**U016 — Mahasiswa**  
+Apabila pada minggu berikutnya saya kembali menghadapi situasi ketika tanggung jawab organisasi menumpuk, masalah pribadi mengganggu konsentrasi, dan tugas akademik memiliki tenggat yang berdekatan, saya akan berusaha menerapkan hasil refleksi sesi ini melalui tindakan yang lebih terstruktur. Saya tidak akan mengubah prinsip tanggung jawab yang selama ini saya pegang, tetapi saya akan memperbaiki cara menentukan prioritas dan mengelola pekerjaan agar keputusan yang saya ambil tidak menimbulkan kerugian yang sebenarnya dapat dicegah.  
+
+**Pertama, saya akan menentukan prioritas sebelum mengambil tindakan.** Saya akan mencatat seluruh tugas organisasi dan akademik yang perlu diselesaikan, beserta tenggat waktu, dampak jika terlambat, dan kebutuhan keterlibatan saya secara langsung. Saya akan menggunakan informasi tersebut untuk menentukan pekerjaan yang harus segera saya tangani, pekerjaan yang dapat didelegasikan, dan pekerjaan yang masih dapat dijadwalkan kemudian. Dengan cara ini, saya tidak langsung menganggap bahwa setiap persoalan organisasi harus selalu didahulukan, tetapi tetap mempertimbangkan tanggung jawab terhadap orang-orang yang bergantung pada keputusan saya.  
+
+**Kedua, saya akan membatasi kecenderungan untuk mengambil terlalu banyak pekerjaan sendiri.** Sebagai Ketua PDD, saya tetap bertanggung jawab memastikan pekerjaan berjalan dengan baik, tetapi saya tidak harus mengerjakan seluruh pekerjaan secara langsung. Jika terdapat tugas yang dapat diselesaikan anggota lain, saya akan mendelegasikannya dengan memberikan arahan, batas waktu, dan mekanisme pelaporan yang jelas. Saya akan turun tangan secara langsung apabila keputusan tersebut memang membutuhkan kewenangan atau pertimbangan saya. Langkah ini bertujuan agar tanggung jawab kepemimpinan tetap terpenuhi tanpa membuat seluruh pekerjaan bergantung pada kemampuan saya sendiri.  
+
+**Ketiga, saya akan menyesuaikan rencana ketika muncul hambatan baru.** Apabila masalah pribadi mulai mengganggu fokus, saya akan mengidentifikasi pekerjaan yang tetap dapat saya selesaikan dan memusatkan perhatian pada satu pekerjaan prioritas terlebih dahulu. Jika muncul tugas organisasi yang mendesak, saya akan menilai apakah tenggat, dampak keterlambatan, dan kebutuhan keterlibatan langsung memang cukup kuat untuk menggeser prioritas sebelumnya. Saya tidak akan menyusun ulang seluruh rencana setiap kali terjadi perubahan, tetapi hanya menyesuaikan bagian yang benar-benar perlu diubah. Pada akhir hari, saya akan memeriksa pekerjaan yang telah selesai, pekerjaan yang tertunda, dan alasan keterlambatannya.  
+
+Untuk mengetahui apakah konsistensi saya membaik, saya akan menggunakan indikator yang dapat diamati selama satu minggu. Indikator pertama adalah ketepatan waktu penyelesaian tugas yang telah ditetapkan sebagai prioritas. Indikator kedua adalah jumlah tugas yang terlambat, khususnya tugas akademik yang keterlambatannya sebenarnya dapat dicegah. Indikator ketiga adalah kemampuan saya mendelegasikan pekerjaan yang tidak membutuhkan keterlibatan langsung saya, alih-alih mengambil alih seluruh tanggung jawab tersebut.  
+
+Saya akan mengevaluasi hasilnya pada akhir minggu dengan membandingkan rencana awal dan pelaksanaan nyata. Jika tugas prioritas dapat diselesaikan sesuai jadwal dan keterlambatan yang dapat dicegah berkurang, hal tersebut akan menjadi indikasi awal bahwa pendekatan saya berjalan lebih efektif. Sebaliknya, jika tugas akademik tetap terlambat atau pekerjaan terus menumpuk pada saya sendiri, saya akan meninjau kembali ketepatan prioritas, pembagian pekerjaan, dan realisme alokasi waktu yang saya tetapkan.  
+
+Saya memahami bahwa satu minggu belum cukup untuk membuktikan konsistensi jangka panjang. Oleh karena itu, saya akan memperlakukan hasil tersebut sebagai bahan evaluasi awal, bukan sebagai kesimpulan akhir mengenai kemampuan diri saya.  
+
+Pada akhirnya, saya tetap bersedia menerima konsekuensi dari keputusan yang telah saya pertimbangkan secara sadar. Namun, saya juga harus memastikan bahwa penerimaan terhadap konsekuensi tidak membuat saya mengabaikan peluang untuk memperbaiki keadaan. Bagi saya, perkembangan diri bukan tentang meninggalkan prinsip tanggung jawab yang saya yakini, melainkan membangun kemampuan untuk menerapkannya secara lebih efektif ketika menghadapi keterbatasan, tekanan, dan perubahan keadaan. Itulah bentuk konsistensi yang ingin saya kembangkan dan buktikan melalui tindakan nyata.
+
+**AI017 — Fasilitator (evaluasi ASK dan SWOT)**  
+Bagian mana dari penilaian awal terhadap diri yang berubah atau menjadi lebih jelas, dan bagian mana yang tetap sama?
+
+**U017 — Mahasiswa**  
+Setelah menjalani seluruh rangkaian refleksi dalam sesi ini, saya menilai bahwa prinsip dasar yang saya pegang tidak mengalami perubahan, tetapi pemahaman saya mengenai cara menerapkannya menjadi lebih jelas. Sejak awal, saya meyakini bahwa tanggung jawab merupakan komitmen yang harus dipenuhi, terutama ketika keputusan dan tindakan saya berdampak pada orang lain. Saya juga tetap berpendapat bahwa konsekuensi dari keputusan yang dibuat secara sadar harus diterima dan dipertanggungjawabkan. Oleh karena itu, saya tidak menyesali keputusan sebelumnya yang menyebabkan penurunan performa akademik, karena pada saat itu saya telah mempertimbangkan tanggung jawab yang menurut saya lebih mendesak.  
+
+Bagian yang menjadi lebih jelas bagi saya adalah perbedaan antara mempertahankan prinsip dan mempertahankan cara bertindak. Sebelumnya, saya lebih berfokus pada penyelesaian tanggung jawab yang telah dipercayakan kepada saya, meskipun hal tersebut mengharuskan saya mengorbankan aspek kehidupan lainnya. Melalui refleksi dan simulasi bersama Dimas, saya mulai memahami bahwa tanggung jawab tidak selalu mengharuskan saya menangani seluruh pekerjaan sendiri. Penentuan prioritas, delegasi, dan evaluasi terhadap keputusan merupakan bagian dari upaya menjalankan tanggung jawab secara lebih efektif, bukan bentuk pengurangan komitmen.  
+
+Dalam aspek *Attitude*, saya tetap mempertahankan sikap bertanggung jawab, kesediaan menerima konsekuensi, dan komitmen terhadap nilai pribadi. Namun, saya menjadi lebih sadar bahwa menerima konsekuensi tidak berarti menganggap seluruh kerugian sebagai sesuatu yang tidak dapat dihindari. Saya perlu bersedia mengakui apabila suatu kerugian muncul akibat keputusan atau pengelolaan yang sebenarnya dapat diperbaiki.  
+
+Dalam aspek *Knowledge*, saya memperoleh pemahaman yang lebih terstruktur mengenai cara menentukan prioritas berdasarkan tenggat waktu, dampak keterlambatan, dan kebutuhan keterlibatan langsung. Saya juga memahami bahwa fleksibilitas dalam menentukan metode dapat berjalan bersama dengan konsistensi dalam mempertahankan prinsip. Akan tetapi, pemahaman ini masih perlu dikembangkan melalui pengalaman nyata.  
+
+Dalam aspek *Skill*, saya telah menyusun rencana tindakan untuk menghadapi tekanan, membagi pekerjaan, menyesuaikan prioritas, dan mengevaluasi hasilnya. Meskipun demikian, saya belum dapat menyatakan bahwa kemampuan tersebut telah meningkat dalam praktik karena saya belum menguji rencana tersebut secara sistematis dalam situasi nyata. Bagi saya, kemampuan menyusun strategi dan kemampuan menjalankannya di bawah tekanan merupakan dua hal yang perlu dibedakan.  
+
+Jika ditinjau melalui SWOT, kekuatan yang tetap saya miliki adalah kesadaran terhadap tanggung jawab, keteguhan prinsip, dan pertimbangan terhadap dampak keputusan bagi orang lain. Peluang pengembangan yang menjadi lebih jelas adalah kemampuan mengelola prioritas dan memberdayakan anggota tim melalui delegasi. Sementara itu, kelemahan yang perlu saya perhatikan adalah kecenderungan mengambil terlalu banyak pekerjaan sendiri, sedangkan ancaman yang dapat memperburuk keadaan adalah munculnya berbagai tuntutan secara bersamaan ketika konsentrasi dan waktu saya terbatas.  
+
+Dengan demikian, penilaian awal saya terhadap nilai dan prinsip pribadi tetap sama, tetapi pemahaman saya terhadap risiko dan cara pengembangannya menjadi lebih terperinci. Saya tidak melihat sesi ini sebagai alasan untuk menyesali keputusan masa lalu atau mengubah prinsip yang saya yakini. Saya melihatnya sebagai kesempatan untuk mengidentifikasi bagian dari cara kerja saya yang masih dapat diperbaiki.  
+
+Kesimpulan saya adalah bahwa konsistensi tidak cukup dinilai dari keteguhan mempertahankan prinsip, tetapi juga perlu dilihat dari kemampuan menerapkannya secara bertanggung jawab dan berkelanjutan. Saya akan menguji pemahaman tersebut melalui rencana prioritas selama satu minggu, kemudian mengevaluasi ketepatan waktu tugas prioritas, keterlambatan akademik yang sebenarnya dapat dicegah, dan kemampuan mendelegasikan pekerjaan. Sampai pengujian tersebut dilakukan, saya akan menganggap perubahan ini sebagai perkembangan pemahaman dan rencana pengembangan diri, bukan sebagai bukti bahwa perilaku saya telah berubah.
+
+**AI018 — Fasilitator (konfirmasi)**  
+Ringkasan akhir disampaikan kepada mahasiswa: tujuan adalah menjaga konsistensi performa di bawah tekanan; prinsip tanggung jawab tetap dipertahankan; pemahaman berkembang tentang prioritas, delegasi, fleksibilitas, dan evaluasi; rencana uji satu minggu belum dilakukan; refleksi komunikasi menunjukkan penjelasan logis membantu membangun pemahaman Dimas tetapi belum cukup membuktikan bahwa ia merasa dipedulikan secara emosional. Mahasiswa diminta mengonfirmasi ringkasan sebelum laporan dibuat.
+
+**U018 — Mahasiswa**  
+Konfirmasi, buat QMD.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tujuan tercapai sebagian pada tingkat refleksi dan perumusan rencana. Mahasiswa berhasil menyebut hambatan spesifik (fokus terpecah saat tekanan pribadi), menghubungkannya dengan pengalaman Ketua PDD, merumuskan pesan untuk diri sendiri, menyusun pendekatan prioritas dan delegasi, menanggapi kendala simulasi, serta menetapkan indikator uji satu minggu. Belum ada bukti bahwa perilaku baru sudah diterapkan atau bahwa konsistensi jangka panjang meningkat.
 
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Kekuatan berupa potensi memimpin; hambatan berupa faktor eksternal dan kesehatan yang mengganggu konsistensi. | Kekuatan: tanggung jawab dan pertimbangan dampak; risiko: mengambil terlalu banyak pekerjaan sendiri; peluang: prioritas dan delegasi; ancaman: tuntutan bersamaan saat waktu dan fokus terbatas. | U002–U004, U014, U017 | Laporan diri dan interpretasi reflektif; bukan pengukuran objektif |
+| Attitude | Tidak menyesali keputusan terdahulu; menerima konsekuensi demi tanggung jawab organisasi. | Prinsip sama, dengan kesadaran bahwa menerima konsekuensi tidak berarti membenarkan kerugian yang bisa dicegah. | U005–U006, U009, U012, U017 | Perkembangan pemahaman dilaporkan; perilaku belum diuji |
+| Knowledge | Mengenali fokus terbagi dan pentingnya prioritas. | Kriteria lebih jelas: tenggat, dampak, urgensi, kebutuhan keterlibatan langsung; bedakan konsekuensi tak terhindarkan dari kerugian yang bisa dicegah. | U003, U010–U013, U017 | Pengetahuan yang dinyatakan dan digunakan dalam simulasi |
+| Skill | Cara konkret menjaga fokus belum terpetakan pada awal sesi. | Mampu menyusun rencana tertulis tentang prioritas, delegasi, penyesuaian, dan evaluasi; keterampilan aktual di bawah tekanan belum terbukti. | U008, U011, U013–U016 | Demonstrasi tertulis dan rencana; belum ada hasil lapangan |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons yang teramati | Perubahan ASK/SWOT dan batas | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
+| Dialog diri U007–U009 | Mahasiswa tetap teguh pada nilai tanggung jawab, lalu menyebut bahwa metode kerja dapat diperbaiki. | Pesan diri yang mengakui konsekuensi dan menyatakan kebutuhan mengelola waktu, energi, dan prioritas. | Mahasiswa melaporkan tidak ada perubahan prinsip, tetapi refleksi memperjelas ruang untuk memperbaiki cara kerja dan delegasi. | Perubahan terutama pada pemahaman; keadaan batin diketahui melalui laporan mahasiswa. | Pertahankan nilai; uji metode melalui tindakan dan indikator. |
+| Simulasi Dimas U010–U012 | Awalnya skeptis terhadap klaim; kemudian respons simulasi menyatakan argumen lebih konkret setelah ada indikator. | Pengalaman pribadi, pengakuan keterbatasan, dan tawaran eksperimen terukur. | Dimas simulasi mengakui alasan dan ukuran keberhasilan, lalu menantang keterbatasan waktu dan dampak pada akademik. | Keterbukaan dan pemahaman tokoh simulasi meningkat secara parsial; bukan bukti perubahan pada orang nyata. | Fokuskan eksperimen pada satu langkah dan indikator yang dapat diamati. |
+| Uji ulang Dimas U013–U014 | Tokoh mempertahankan pertanyaan kritis tentang perubahan prioritas; mahasiswa mengidentifikasi risiko mengambil pekerjaan sendiri. | Kriteria perubahan prioritas, delegasi, dan evaluasi konsekuensi. | Mahasiswa merumuskan kapan pekerjaan menggeser prioritas dan mengakui risiko implementasi saat tertekan. | Ada elaborasi pengetahuan dan rencana, tetapi skill lapangan belum dapat disimpulkan. | Uji daftar prioritas seminggu; amati tugas terlambat dan delegasi nyata. |
+| Uji ulang diri U016–U017 | Mahasiswa mengartikulasikan rencana dan batas bukti dengan eksplisit. | Rencana tindakan dan indikator evaluasi. | Mahasiswa menyatakan perubahan sebagai pemahaman/rencana, bukan bukti perilaku yang sudah berubah. | Kalibrasi klaim dan refleksi diri tampak kuat. | Tindak lanjuti setelah periode satu minggu dengan data nyata. |
 
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+## Ringkasan profil Dimas setelah pengungkapan untuk evaluasi
+
+Profil yang digunakan sesuai paket aktif: Dimas, ID K1-04, teman pembanding pengembangan diri. Dimas adalah tokoh fiktif dengan preferensi komunikasi yang menghargai alasan kritis, otonomi, dan ukuran keberhasilan. Hambatan utamanya adalah skeptisisme terhadap manfaat latihan, kebutuhan bukti peningkatan, serta keterbatasan waktu untuk eksperimen. MBTI INTJ adalah atribut fiktif tokoh, bukan diagnosis mahasiswa.
+
+| Aspek simulasi | Catatan akhir berbasis respons | Batas inferensi |
+|---|---|---|
+| Kepercayaan/kesediaan mempertimbangkan | Meningkat secara parsial dalam alur simulasi: Dimas menyatakan memahami argumen dan menghargai indikator. | Tokoh fiktif; status ini tidak mengukur kepercayaan orang nyata. |
+| Pemahaman (K) | Meningkat secara parsial karena rencana memiliki tindakan dan indikator, tetapi Dimas tetap menguji masalah waktu dan benturan tanggung jawab. | Pemahaman lebih baik tidak sama dengan persetujuan penuh. |
+| Kesiapan/kemampuan (S) | Langkah awal dan ukuran uji sudah disebutkan, tetapi hasil penerapan belum ada. | Belum ada bukti peningkatan kemampuan aktual. |
+| SWOT subjektif Dimas | Awalnya nilai pendekatan belum terbukti; kebutuhan eksperimen terbatas menjadi jelas. | Ini karakterisasi simulasi, bukan penilaian psikologis. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Status relasional simulasi | Dampak dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
+| U010–U012 | Mahasiswa berbagi pengalaman pribadi, tidak memaksa persetujuan, dan terbuka bahwa pendekatan perlu diuji. | Dimas mengatakan memahami argumen, menghargai indikator, dan menyebut pendekatan lebih konkret. | Rasa aman/kepercayaan untuk mempertimbangkan: sedang dalam simulasi; merasa dipahami/dipedulikan: bukti terbatas; keterbukaan: sedang. | Respons mendukung bahwa argumen dipahami, bukan bahwa Dimas sepenuhnya setuju atau merasa dipedulikan secara emosional. |
+| U015 | Mahasiswa mengakui bahwa komunikasinya lebih menekankan logika dan belum eksplisit mengakui kekhawatiran Dimas. | Refleksi menyebut batas bukti dan rencana untuk mengakui kekhawatiran sebelum menjelaskan pendapat. | Tidak ada pengukuran langsung baru; ini refleksi mahasiswa atas simulasi. | Kesimpulan mahasiswa proporsional: pemahaman terbangun, kebutuhan emosional belum dapat dipastikan. |
 
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+Status relasional awal Dimas: skeptis dan membutuhkan bukti. Status akhir: lebih bersedia mempertimbangkan pendekatan karena adanya indikator yang dapat diuji, tetapi tetap kritis terhadap keterbatasan waktu dan pelaksanaan. Perubahan ini merupakan hasil pemeranan AI, bukan bukti hubungan atau perubahan emosi orang nyata. Tidak ada klaim mengenai ketulusan batin; evaluasi didasarkan pada pesan dan respons yang tampak dalam simulasi.
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
+Uji ulang mencakup dua lapis. Dalam simulasi Dimas, mahasiswa merespons kendala keterbatasan waktu, keterlambatan akademik, dan perubahan prioritas dengan kriteria yang lebih terperinci. Dalam uji ulang diri, mahasiswa menyusun tindakan konkret: daftar prioritas, delegasi, penyesuaian terbatas, dan evaluasi harian/mingguan. Ini menunjukkan kemampuan menyusun respons tertulis terhadap skenario, bukan retensi skill yang sudah terbukti dalam kondisi nyata.
 
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Indikator tindak lanjut:
+
+1. Ketepatan waktu tugas yang telah ditetapkan sebagai prioritas.
+2. Jumlah tugas akademik terlambat yang sebenarnya dapat dicegah.
+3. Pekerjaan yang berhasil didelegasikan ketika tidak membutuhkan keterlibatan langsung mahasiswa.
+4. Alasan perubahan prioritas dan apakah perubahan tersebut menimbulkan risiko pada tugas lain.
+
+Periode uji yang direncanakan adalah satu minggu. Belum ada data hasil. Setelah minggu tersebut, mahasiswa perlu membandingkan rencana dengan pelaksanaan dan menilai apakah keterlambatan yang dapat dicegah berkurang.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
-|---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+Skor berikut adalah **usulan AI untuk moderasi dosen**, bukan nilai resmi. Skala 1–4 mengikuti format penugasan; rubrik deskriptor rinci per tingkat tidak tersedia dalam berkas yang dibaca, sehingga alasan diberikan secara kualitatif. Keenam dimensi memiliki bukti yang cukup untuk usulan awal, tetapi penilaian tetap memerlukan moderasi.
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+| Dimensi | Skor usulan 1–4 | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U002: “kemampuan ... konsistensi”; U004–U005: contoh Ketua PDD dan dampak akademik | Tujuan jelas dan didukung konteks pengalaman yang relevan. |
+| Persepsi dan validasi profil/status | 3 | U003–U006; U017 | Mahasiswa mengidentifikasi fokus terpecah, nilai tanggung jawab, dan risiko mengambil terlalu banyak pekerjaan. Validasi sebagian besar berbasis introspeksi, bukan data perilaku eksternal. |
+| Pemilihan dan urutan repertoar | 3 | U007, U008, U010–U013 | Memakai dialog diri, pengalaman, eksperimen terbatas, prioritas, delegasi, dan indikator. Struktur rencana baik, tetapi pelaksanaan belum tersedia. |
+| Eksekusi jelas, peduli, dan konsisten | 3 | U010: “Saya tidak meminta kamu untuk langsung menyetujui”; U015 | Argumentasi jelas dan menghormati otonomi; refleksi mengakui kurangnya pengakuan eksplisit atas kekhawatiran lawan bicara. Perilaku relasional hanya diuji dalam simulasi. |
+| Evaluasi dan adaptasi | 4 | U012–U014, U016 | Mempertimbangkan dampak pada tanggung jawab lain, perubahan prioritas, dan risiko implementasi; menetapkan indikator. Belum ada data penerapan lapangan. |
+| Refleksi dan lesson learned | 4 | U015, U017 | Membedakan perubahan pemahaman dari perubahan perilaku; mengidentifikasi bukti, keterbatasan, dan tindak lanjut secara jelas. |
+| **Jumlah** | **21/24** |  | **Nilai sesi usulan = 21 / 24 × 100 = 87,5/100. Memerlukan moderasi dosen.** |
+
+Nilai proses di atas terpisah dari hasil tujuan: refleksi dan rencana tindakan sudah dirumuskan; perubahan perilaku dan konsistensi jangka panjang belum terbukti.
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Mahasiswa menyatakan bahwa prinsip dasar tanggung jawab dan penerimaan konsekuensi tidak berubah. Perkembangan yang dirasakan adalah pemahaman lebih jelas tentang perbedaan antara mempertahankan prinsip dan mempertahankan metode. Mahasiswa memahami bahwa delegasi, penetapan batas, dan pengelolaan prioritas juga bagian dari tanggung jawab kepemimpinan. Ia mengidentifikasi kecenderungan mengambil terlalu banyak pekerjaan sendiri sebagai risiko ketika tekanan meningkat.
+
+Dalam refleksi komunikasi, mahasiswa menilai bahwa penjelasan berdasarkan pengalaman, keterbukaan terhadap kritik, dan indikator yang dapat diperiksa membantu membangun pemahaman Dimas. Ia juga mengakui bahwa komunikasinya lebih menekankan logika daripada pengakuan langsung terhadap kekhawatiran lawan bicara. Respons Dimas dalam simulasi menunjukkan pemahaman yang meningkat secara parsial, tetapi tidak membuktikan persetujuan penuh atau perasaan dipedulikan secara emosional.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+- **Langkah:** selama satu minggu, buat dan gunakan daftar prioritas untuk tugas akademik dan organisasi.
+- **Kriteria:** tenggat waktu, dampak keterlambatan, urgensi, dan kebutuhan keterlibatan langsung.
+- **Dukungan/metode:** delegasikan pekerjaan yang dapat dilakukan anggota lain; tetapkan batas waktu dan mekanisme pelaporan.
+- **Evaluasi:** pada akhir hari, catat pekerjaan selesai/tertunda dan alasannya; pada akhir minggu, periksa indikator yang telah ditentukan.
+- **Batas:** rencana belum dilaksanakan dalam bukti percakapan ini. Tidak ada kesimpulan bahwa perilaku atau kesehatan berubah. Percakapan teks tidak mengukur prosodi atau bahasa tubuh. Dimas merupakan tokoh simulasi. Semua skor AI memerlukan moderasi dosen.
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
+## Bobot dan nilai akhir UTS
 
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Usulan AI 87,5/100; perlu moderasi dosen |
+| Sesi 2a | 18% | BT — belum tersedia |
+| Sesi 2b | 18% | BT — belum tersedia |
+| Sesi 3a | 18% | BT — belum tersedia |
+| Sesi 3b | 18% | BT — belum tersedia |
+| **Total** | **100%** | **Nilai akhir UTS belum dihitung** |
 
-{{< include "../../includes/uts-penilaian.md" >}}
+**Rumus nilai akhir UTS:** 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b), dengan semua nilai komponen pada skala 0–100. Nilai akhir tidak dihitung sampai nilai makalah dan kelima sesi tersedia. BT berarti belum dapat ditetapkan, bukan nol; bobot tidak dinormalisasi ulang.
+
+Rata-rata sesi 2a/2b dan 3a/3b dapat ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung sebagai komponen tambahan. Rubrik makalah tidak tersedia di paket ini, sehingga nilai makalah harus berasal dari dosen atau rubrik resmi. Semua usulan skor AI memerlukan moderasi dosen.
