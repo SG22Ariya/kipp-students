@@ -1,7 +1,7 @@
 ﻿---
 title: "Portfolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Belum dimulai"
+status: "Dalam penyusunan"
 self_score: "—"
 assessor_score: "—"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
@@ -16,36 +16,67 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Elemen | Isi mahasiswa |
 |---|---|
-| Nama | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Periode/tanggal pelaksanaan | [Isi tanggal aktual setiap sesi pada laporan] |
-| Versi bank/paket aktif | [Salin dari PENUGASAN.md dalam ZIP Anda] |
-| Modalitas | [Teks/suara; sumber transkripsi] |
-| Status pengumpulan | [Belum diunggah/sudah diunggah; bukti bila tersedia] |
+| Nama | Ariya Nanda Harimawan |
+| NIM | `18225089` |
+| Kelas | K1 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 untuk kelima sesi, sesuai tanggal pada laporan yang tersedia |
+| Versi bank/paket aktif | Bank 2.0; paket individual 2.0 pada kelima ZIP |
+| Modalitas | Teks; percakapan dilakukan melalui teks, bukan transkripsi audio |
+| Status pengumpulan | Belum terkonfirmasi. Belum ada bukti unggah ke portal dalam berkas/percakapan yang tersedia; pengunggahan dilakukan sendiri oleh mahasiswa. |
 
 ## Makalah dan lima laporan
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
-| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
-| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
-| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
-| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
-| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Draf tersedia; perlu pemeriksaan akhir | Berkas memiliki abstrak, empat pertanyaan, pembahasan MBTI/PASK, contoh integratif, kesimpulan, dan daftar pustaka. Perlu memeriksa konsistensi sitasi, jalur `include`, serta hasil render di proyek Quarto. |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri mahasiswa sebagai target utama; Dimas (K1-04) sebagai tokoh pembanding | Laporan tersedia; perlu pemeriksaan akhir | Bagian A–D, uji ulang, refleksi, dan enam dimensi penilaian tersedia. Transkrip dinyatakan parsial dalam laporan; usulan AI 21/24 = 87,5/100 perlu moderasi dosen. |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | Dimas (K2-04), Kasus 2: persahabatan dan profesionalitas | Laporan tersedia; perlu pemeriksaan akhir | Simulasi, uji ulang, refleksi, evaluasi enam dimensi, dan rekap skor tersedia. Usulan AI 23/24 = 95,8/100 perlu moderasi dosen; periksa kembali kesesuaian struktur dengan template resmi dan hasil render. |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | Cyntia (K2-03), Kasus 2; target berbeda dari sesi 2a | Draf tersedia; perlu dilengkapi | Berkas berisi konteks, tujuan, kronologi, evaluasi, dan refleksi. Struktur belum mengikuti template resmi secara penuh; transkrip aktual ber-ID dan tahap uji ulang 3–5 jawaban mahasiswa belum tercatat sebagai bagian terpisah. Skor 22/24 = 91,67/100 masih sementara dan belum layak dianggap nilai final. |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | Fajar (K3-06), Kasus 3: menawarkan solusi TI dan AI | Laporan tersedia; perlu pemeriksaan akhir | Bagian A–D, analisis, uji ulang, refleksi, dan enam dimensi tersedia. Usulan AI 23/24 = 95,83/100; uji coba usaha belum dilaksanakan sehingga manfaat solusi belum terbukti. Periksa render dan konsistensi format akhir. |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Elsa (K3-05), Kasus 3; target berbeda dari sesi 3a | Draf tersedia; perlu melengkapi/verifikasi bukti | Uji ulang, refleksi, dan enam dimensi tersedia. Laporan secara eksplisit menyatakan transkrip simulasi awal parsial; bagian yang belum ada harus dilengkapi hanya dari percakapan/sumber yang benar-benar tersedia, bukan direka. Usulan AI 23/24 = 95,83/100 masih perlu moderasi dosen. |
 
 {{< include "../includes/uts-penilaian.md" >}}
+
+## Refleksi lintas sesi
+
+### Pola yang konsisten
+
+Dari laporan yang tersedia, pendekatan komunikasi Ariya berulang kali berusaha **memahami konteks sebelum menyimpulkan**, **mengajukan pertanyaan untuk menguji dugaan**, dan **mengubah masalah menjadi langkah tindak lanjut yang dapat diperiksa**. Dalam Sesi 1, fokus refleksi adalah tanggung jawab pribadi, prioritas, dan risiko mengambil terlalu banyak pekerjaan sendiri. Dalam Sesi 2a dan 2b, perhatian bergeser ke keseimbangan antara empati kepada teman dan akuntabilitas tugas kelompok: mendengarkan alasan keterlambatan, memeriksa apakah pembagian kerja terasa adil, dan menjaga agar bantuan tidak berubah menjadi pengambilalihan tanggung jawab.
+
+Dalam Sesi 3a dan 3b, prinsip yang sama muncul saat membahas solusi teknologi. Solusi tidak otomatis harus menggunakan AI; kebutuhan operasional, waktu, kapasitas staf, privasi, pembagian peran, dan persetujuan pihak yang menjalankan solusi perlu diperiksa terlebih dahulu. Fajar bersedia mempertimbangkan uji coba Google Sheets terbatas, sementara Elsa pada catatan yang tersedia baru bersedia meninjau draf panduan—keduanya tidak boleh disamakan dengan implementasi yang sudah berhasil.
+
+### Kekuatan yang tampak dari bukti percakapan
+
+- Tujuan komunikasi umumnya dinyatakan dengan jelas dan dihubungkan dengan konteks, tenggat, serta kepentingan pihak lain.
+- Ariya cenderung menjaga otonomi lawan bicara: tidak langsung menghakimi, tidak memaksakan penggunaan AI, dan berusaha agar perubahan tanggung jawab atau pembagian kerja dibicarakan bersama.
+- Rencana tindak lanjut biasanya dibuat konkret, misalnya menetapkan prioritas revisi, mengonfirmasi kapasitas anggota, membatasi cakupan uji coba, atau menentukan indikator evaluasi.
+- Refleksi membedakan keterbukaan atau kesediaan awal dari hasil nyata. Laporan tidak mengklaim bahwa kesepakatan kelompok sudah berhasil dilaksanakan atau solusi usaha sudah terbukti efektif.
+
+### Hal yang masih perlu dikembangkan
+
+Refleksi dalam beberapa sesi mengidentifikasi kecenderungan memberi jawaban panjang, mengulang prinsip yang sama, atau menyusun prosedur terlalu cepat sebelum seluruh kendala, kapasitas, dan pilihan pihak lain digali. Perbaikan yang relevan adalah merangkum pemahaman secara singkat, meminta konfirmasi apakah rangkuman sudah tepat, baru kemudian mengusulkan satu atau dua langkah yang realistis. Setelah kesepakatan dibuat, tindak lanjut perlu memeriksa pelaksanaannya dan tidak menganggap persetujuan awal sebagai bukti keberhasilan.
+
+### Batas kesimpulan
+
+Laporan-laporan ini terutama merekam simulasi komunikasi teks dan refleksi mahasiswa. Respons tokoh simulasi merupakan bukti dalam skenario, bukan pengukuran psikologis atas individu nyata. Belum tersedia bukti bahwa seluruh rencana diterapkan di luar simulasi atau menghasilkan perubahan perilaku jangka panjang. Selain itu, laporan Sesi 2b masih memerlukan tahap uji ulang terpisah dan pembenahan struktur, sedangkan transkrip awal Sesi 3b dinyatakan parsial. Karena itu, sintesis lintas sesi merupakan refleksi pembelajaran sementara, bukan hasil penelitian lapangan atau bukti kompetensi yang sudah tervalidasi secara independen.
 
 ## Rekap nilai komponen
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
-|---|---:|---|---|---|---|
-| Makalah | 10% | — | — | — | Belum dinilai |
-| Sesi 1 | 18% | — | — | — | Belum dinilai |
-| Sesi 2a | 18% | — | — | — | Belum dinilai |
-| Sesi 2b | 18% | — | — | — | Belum dinilai |
-| Sesi 3a | 18% | — | — | — | Belum dinilai |
-| Sesi 3b | 18% | — | — | — | Belum dinilai |
+|---|---:|---:|---:|---:|---|
+| Makalah | 10% | — | — | — | Belum dinilai; paket yang tersedia menyatakan rubrik makalah resmi tidak tercantum. |
+| Sesi 1 | 18% | — | 87,5 | — | Usulan AI berdasarkan 21/24; perlu moderasi dosen. Transkrip pada laporan ditandai parsial. |
+| Sesi 2a | 18% | — | 95,8 | — | Usulan AI berdasarkan 23/24; perlu moderasi dosen dan pemeriksaan format akhir. |
+| Sesi 2b | 18% | — | 91,67* | — | *Skor sementara dalam draf berdasarkan 22/24; jangan diperlakukan sebagai nilai final karena uji ulang terpisah dan struktur template masih perlu dilengkapi.* |
+| Sesi 3a | 18% | — | 95,83 | — | Usulan AI berdasarkan 23/24; perlu moderasi dosen. Uji coba nyata belum dilakukan. |
+| Sesi 3b | 18% | — | 95,83* | — | *Usulan AI berdasarkan 23/24, tetapi transkrip simulasi awal parsial; perlu pemeriksaan bukti dan moderasi dosen.* |
 
-**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20. Nilai pada kolom “Usulan AI” bukan nilai resmi dosen. Tanda `—` pada self-assessment berarti belum ada skor mandiri /100 yang tercatat dalam berkas yang ditinjau.
+
+## Daftar tindak lanjut sebelum pengumpulan
+
+1. Lengkapi uji ulang Sesi 2b sebanyak 3–5 jawaban mahasiswa, kemudian revisi `hasil_2b_18225089.qmd` sesuai template resmi dan transkrip yang benar-benar tersedia.
+2. Tinjau ulang kelengkapan transkrip pada Sesi 1 dan Sesi 3b. Jangan merekonstruksi kutipan verbatim yang tidak tersedia; tandai keterbatasan apabila segmen percakapan tidak dapat dipulihkan.
+3. Render `paper.qmd` dan kelima laporan dalam proyek Quarto yang benar, lalu pastikan jalur tautan dan `include` berfungsi.
+4. Masukkan nilai mandiri bila memang diminta, dan tunggu/moderasi nilai resmi dosen sebelum mengisi `assessor_score` atau menghitung nilai akhir.
+5. Setelah berkas final diperiksa, unggah sendiri seluruh berkas melalui portal yang ditentukan dan simpan bukti pengumpulan.
